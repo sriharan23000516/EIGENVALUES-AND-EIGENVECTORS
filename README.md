@@ -21,7 +21,7 @@ Step 4:
 End the program
 
 ## Program:
-#Program to find the eigen values and eigen vectors.
+```#Program to find the eigen values and eigen vectors.
 #Developed by: Sriharan J V
 #RegisterNumber:212223100054
 import numpy as np
@@ -30,7 +30,7 @@ matrix = np.array([[4, 2], [2, 4]])
 
 eigenvalues, eigenvectors = np.linalg.eig(matrix)
 
-print("Eigen values are", eigenvalues,"and Eigen Vectors are",eigenvectors)
+print("Eigen values are", eigenvalues,"and Eigen Vectors are",eigenvectors)```
 
 
 ## Output:
